@@ -1,0 +1,1 @@
+D:\Softuni\CSharpBasicsMoreExercises\02.VaporStore\bin\Debug\02.VaporStore.exe.config
